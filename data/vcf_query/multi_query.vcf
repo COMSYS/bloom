@@ -1,0 +1,8 @@
+##fileformat=VCF4.2
+##INFO=<ID=SVTYPE,Number=1,Type=String,Description="Type of structure variant">
+##INFO=<ID=END,Number=1,Type=Integer,Description="End position of the variant described in this record">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+1	160929435	rs7520618	G	A	.	.	SVTYPE=SNP;END=160929436	
+1	160929527	rs7543952	C	T	.	.	SVTYPE=SNP;END=160929528	
+1	160929743	rs7523191	G	A	.	.	SVTYPE=SNP;END=160929744	
+1	160929889	rs3007144	C	T	.	.	SVTYPE=SNP;END=160929890	
